@@ -1,45 +1,45 @@
-QC;ANSWER;VALUE
-e1;Don`t know ;0.5
-e1;No ;1
-e1;Yes ;0
-e2;Don`t know ;0.5
-e3;No ;1
-e4;Yes ;0
-f1_a;No ;1
-f1_a;Yes ;0
-f1_b;No ;1
-f1_b;Yes ;0
-fa1_11;Don`t know ;0.5
-fa1_11;No ;0
-fa1_11;Yes ;1
-fa1_5;Don`t know ;0.5
-fa1_5;No ;1
-fa1_5;Yes ;0
-fa1_6;Alone;1
-fa1_6;More perpetrators;0
-fa2_11;Don`t know ;0.5
-fa2_11;No ;0
-fa2_11;Yes ;1
-fa2_5;Don`t know ;0.5
-Fa2_5;No ;1
-Fa2_5;Yes ;0
-fa2_6;Alone;1
-fa2_6;More perpetrators;0
-fb1_11;Don`t know ;0.5
-fb1_11;No ;0
-fb1_11;Yes ;1
-fb1_5;Don`t know ;0.5
-fb1_5;No ;1
-fb1_5;Yes ;0
-fb1_6;Alone;1
-fb1_6;More perpetrators;0
-fb1_6;Don`t know ;0.5
-fb2_11;Don`t know ;0.5
-fb2_11;No ;0
-fb2_11;Yes ;1
-fb2_5;Don`t know ;0.5
-fb2_5;No ;1
-fb2_5;Yes ;0
-fb2_6;Alone;1
-fb2_6;More perpetrators;0
-fb2_6;Don`t know ;0.5
+QC,ANSWER,VALUE
+e1,Don`t know,0.5
+e1,No,1
+e1,Yes,0
+e2,Don`t know,0.5
+e3,No,1
+e4,Yes,0
+f1_a,No,1
+f1_a,Yes,0
+f1_b,No,1
+f1_b,Yes,0
+fa1_11,Don`t know,0.5
+fa1_11,No,0
+fa1_11,Yes,1
+fa1_5,Don`t know,0.5
+fa1_5,No,1
+fa1_5,Yes,0
+fa1_6,Alone,1
+fa1_6,More perpetrators,0
+fa2_11,Don`t know,0.5
+fa2_11,No,0
+fa2_11,Yes,1
+fa2_5,Don`t know,0.5
+Fa2_5,No,1
+Fa2_5,Yes,0
+fa2_6,Alone,1
+fa2_6,More perpetrators,0
+fb1_11,Don`t know,0.5
+fb1_11,No,0
+fb1_11,Yes,1
+fb1_5,Don`t know,0.5
+fb1_5,No,1
+fb1_5,Yes,0
+fb1_6,Alone,1
+fb1_6,More perpetrators,0
+fb1_6,Don`t know,0.5
+fb2_11,Don`t know,0.5
+fb2_11,No,0
+fb2_11,Yes,1
+fb2_5,Don`t know,0.5
+fb2_5,No,1
+fb2_5,Yes,0
+fb2_6,Alone,1
+fb2_6,More perpetrators,0
+fb2_6,Don`t know,0.5
